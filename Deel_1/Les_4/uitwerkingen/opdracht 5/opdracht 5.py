@@ -8,3 +8,5 @@ a= float { input"25 "}
 
 
  a = " 25 " 
+
+ b= 
