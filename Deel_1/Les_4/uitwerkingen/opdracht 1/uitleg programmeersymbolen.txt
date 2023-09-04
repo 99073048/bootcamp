@@ -1,0 +1,10 @@
+Opdracht 1:
+Operators zijn symbolen in programmeertalen die worden gebruikt om verschillende bewerkingen uit te voeren op gegevens. 
+
++: Optelling
+-: Aftrekking
+*: Vermenigvuldiging
+/: Deling
+//: Gehele deling (afgerond naar beneden)
+**: Exponentiatie (macht)
+%: Modulus (rest na deling)
