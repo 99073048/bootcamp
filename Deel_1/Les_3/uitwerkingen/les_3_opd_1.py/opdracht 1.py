@@ -1,4 +1,18 @@
+#Prijzen van het fruit
+prijs_appels = 3.40
+prijs_druiven = 2.45
+prijs_bananen = 1.95
 
- print( 25*1115 )
+#Bereken de totale prijs van het fruit
+totale_prijs = prijs_appels + prijs_druiven + prijs_bananen 
 
-print( 3.40+ 2.45+1.95 )
+
+#BTW-tarief
+btw_tarief = 0.09
+
+# Bereken de BTW
+btw_bedrag = totale_prijs * btw_tarief
+
+
+
+
