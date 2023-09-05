@@ -15,13 +15,7 @@ aantal_keer = totaal // deeltal
 
 rest = totaal % deeltal
 
-# met behulp van AI
-# Print het resultaat
-print (f"{deeltal} past {aantal_keer} keer in {totaal}.")
-print (f"Er blijft {rest} over.")
+print (f" {deeltal} past {aantal_keer}keer in {totaal}." )
 
-
-
-
-
+print (f"er blijft {rest} over.")
 
