@@ -1,20 +1,15 @@
 
-# boole,boolean
 
-
-breedte= int(input( "hoe breed is uw wagen? "))
+breedte= int(input("hoe breed is uw wagen? "))
 
 print ("toegangscontrole")
 
-print(breedte <= 1200)
 
+# Booleaanse expressie (boolean)
 
 if breedte <= 2900:
-print(" beste chauffeur u mag door ")
-
-
-
-
+   print ( "beste chauffeur u mag door" )
+   
 
 
 # groter dan =  ( <= )    1000
