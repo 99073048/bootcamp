@@ -28,4 +28,3 @@ oppervlakte= pi* straal**2
  
 print (F"De oppervlakte van een cirkel met straal{straal} is {omtrek}")
 print (F"De omtrek van een cirkel met behulp van straal {straal} is {omtrek}" )
-

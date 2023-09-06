@@ -1,5 +1,4 @@
 
-
 breedte= int(input("hoe breed is uw wagen? "))
 
 print ("toegangscontrole")
@@ -16,3 +15,7 @@ if breedte <= 2900:
 # kleiner Dan = ( >= )
 # stoppen bij = ( < )     
 
+
+# groter dan =  ( <= )    1000
+# kleiner Dan = ( >= )
+# stoppen bij = ( < )     
