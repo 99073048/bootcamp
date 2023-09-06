@@ -2,7 +2,7 @@
 
 woord_1 = input(" mooie : ")
 stad_1 = input ( " noem de plaats "    )
-naam_1 = 
+naam_1 = input ( )
 woord_3 = "kledingwinkel"
 woord_4 = "verkoper"
 woord_5 = "jas"
