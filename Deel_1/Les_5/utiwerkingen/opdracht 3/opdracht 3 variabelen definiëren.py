@@ -4,21 +4,12 @@
 # Pas het programma nu zo aan dat de gebruiker getallen kan invoeren.
 
 
-# 
-variabel_1 = float(input ("Het eerste variabel:")
-
-# 
-variabel_2 = float(input ( "het tweede variabel:" )
-
-# 
-variabel_3 = float(input ( "Het derde variabel zelf invoeren:")
-
-# Bereken het gemiddelde
+var1 = float (input ("Het eerste variabel:"))
+var2 = float (input ( "het tweede variabel:"))
+var3 = float (input ("Het derde variabel zelf invoeren:"))
+              
 gemiddelde = (var1 + var2 + var3) / 3
 
 # Toon het gemiddelde
-print("Het gemiddelde is", gemiddelde)
+print( "Het gemiddelde is", gemiddelde )
 
-
-
- 
