@@ -12,7 +12,7 @@
 
 
 
-# int gebruik je in dit geval omdat twee strings eigelijk niet samen kunnen werken zonder() INT )
+# int gebruik je in dit geval omdat twee strings eigelijk niet samen kunnen werken zonder() INT )1
 
 
 pi= 3.14159
