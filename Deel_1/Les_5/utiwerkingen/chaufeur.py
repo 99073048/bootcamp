@@ -3,18 +3,13 @@ breedte= int(input("hoe breed is uw wagen? "))
 
 print ("toegangscontrole")
 
-
-# Booleaanse expressie (boolean)
-
 if breedte <= 2900:
    print ( "beste chauffeur u mag door" )
    
+else:
+   print ("Beste chauffeur u mag niet door")
 
-
-# groter dan =  ( <= )    1000
-# kleiner Dan = ( >= )
-# stoppen bij = ( < )     
-
+# Booleaanse expressie (boolean)
 
 # groter dan =  ( <= )    1000
 # kleiner Dan = ( >= )

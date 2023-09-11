@@ -10,6 +10,23 @@
 # Test je programma door a en b een paar keer een andere waarde te geven.
 # Als laatste stap laat je de gebruiker de getallen a en b invoeren. Zorg ervoor dat je programma goed blijft werken.
 
+
+
+
+
+
+# a=1
+# b=2
+
+
+# a = float(input("voer het variabel a in"))
+# b = float(input("voor het variabel b in"))
+
+
+# if a > b:
+#    print("Variabele a is groter dan {b} want variabele {a}is grootst ") 
+
+
 #definiëren
 a= 1
 b= 4
@@ -25,16 +42,10 @@ elif b > a:
 else:  ("Variabele a en b zijn gelijk.")
 
 
-
-
-
-
-
-
 # zelf proberen te doen
 
 # else a==b:
 #       print (F"Variabele a en b zijn gelijk")
-# 
-#  
+
+ 
            

@@ -16,7 +16,7 @@ Cijfer	Omschrijving
 4	onvoldoende
 3	gering
 2	slecht
-1	zeer slecht
+1	= zeer slecht
 
 Opdracht 2:
 Oh ja: we (oefenen het) formatteren het ook nog even netjes:

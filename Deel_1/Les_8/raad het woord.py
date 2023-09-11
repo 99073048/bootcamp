@@ -1,17 +1,17 @@
-print("welkom bij mijn supergame")
+
+
+
+print("Welkom bij mijn supergame")
 TE_RADEN_WOORD = "beginner"
 
-geraden_woord= input("raad het woord") # geraden_woord= een string
+geraden_woord = input("Raad het woord: ")  # geraden_woord is een string
 
-while geraden_woord == TE_RADEN_WOORD: # while doorgaan == true  # is hetzelfde als while doorgaan
-  if geraden_woord == TE_RADEN_WOORD:
-   print(f" je hebt het woord geraden het was {TE_RADEN_WOORD}") 
+while geraden_woord != TE_RADEN_WOORD:
+    geraden_woord = input("Raad het woord: ")
+    print("Je hebt het woord helaas fout")
+    
 
-  else:
-    print ("Je hebt het woord helaas fout")
-
-  geraden_woord= input("raad het woord") 
-
+print(f"Je hebt het woord geraden, het was {TE_RADEN_WOORD}")
 
 
 
