@@ -16,3 +16,5 @@ totaal = prijs_m2 * oppervlakte
 
 print(f'Het totaalbedrag is voor een oppervlakte van {oppervlakte} m2 is: Eur ' + str(totaal))
 
+# een elif is eigelijk een alternatief voor else 
+#Het gebruik van str(totaal) in de printverklaring is nodig omdat totaal een numerieke waarde is (het berekende totaalbedrag), en de print-functie verwacht een string als argument om af te drukken. Door str(totaal) te gebruiken, wordt de numerieke waarde van totaal omgezet in een string, zodat deze correct kan worden samengevoegd met de rest van de tekst in de uitvoerzin.

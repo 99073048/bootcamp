@@ -11,3 +11,5 @@ if leeftijd < 18:
 
 else:
    print (f" Beste {naam}, je bent 18 of ouder en mag dus alleen autorijden met rijbewijs althans")
+
+   
