@@ -9,8 +9,8 @@ cijfer_1= float(input("voer hier uw eerste getal in"))
 
 cijfer_2= float(input("voer het tweede cijfer in"))
 
-gemiddelde = ( + cijfer_2) /2
+gemiddelde = (cijfer_1 + cijfer_2) /2
 
-print("Het gemiddelde van", cijfer_1, "en", cijfer_2, "is:", gemiddelde)
+print(f"Het gemiddelde van, {cijfer_1,} en, {cijfer_2}, is,  {gemiddelde}")
 
 
