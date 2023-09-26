@@ -1,39 +1,24 @@
-from tkinter import Variable
 
 
-zin= "Hallo wereld dit is mijn zin"
+    
+naam_1 = input("Hoe heet je? ")
+favoriete_kleur = input("Wat is je favoriete kleur? ")
 
-#print(zin(2))
+kleuren = ("rood,blauw,groen,paars,geel,oranje")  # Dit noem je een tuple
 
-getal = 5
-totaal=0
+teken = len(naam_1)
 
-mijn_verzameling=  1,7,5,3,15,27,23,1#dit noem je een tjoepel
+print(f"{naam_1} bestaat uit {teken} tekens")  # Hier moet je f-string gebruiken om de variabelen in te voegen
 
-if getal in mijn_verzameling:
-    print(f"het getal 15 zit er in")
+if favoriete_kleur.lower() in kleuren:  # Gebruik .lower() om de invoer in kleine letters te converteren
+    print(f"Wat een mooie kleur! {naam_1} houdt van de kleur {favoriete_kleur}.")
+else:
+    print("Deze kleur is niet zo mooi.")
 
-for getal in mijn_verzameling:
- 
- totaal = totaal+ getal 
-
-
-
-
-naam_1= input("hoe heet heet je")
-favoriete_kleur= input("wat is je favoriete kleur")
-
-kleuren= ("rood,blauw,groen,paars,geel,oranje")
-
-
-teken= len(naam_1)
-
-print("{naam_1} bestaat uit {teken}")
-
-   if favoriete_kleur in kleuren:
-   print(f"wat een mooie kleur {naam_1} houdt van de kleur {favoriete_kleur}")
-
-  else 
-     print(f"deze print is niet zo mooi")
-
+   
+# if favoriete_kleur.lower() in kleuren:
+#    print(f"wat een mooie kleur {naam_1} houdt van de kleur {favoriete_kleur}.")
+# else:
+#    print("deze kleur is niet in de lijst van favoriete kleuren")
    # als je wil dat de gebruiker alleen lage letter gebruikt zet een lower achter het variabel favoriete_kleur.lower()
+
