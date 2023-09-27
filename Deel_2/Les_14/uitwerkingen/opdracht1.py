@@ -4,10 +4,16 @@
 getallen_lijst = []
 
 # Vraag de gebruiker om 5 getallen in te voeren en voeg ze toe aan de lijst
-for i in range(5):
+for i in range(5): #dit is een for statement met een range van 5 
     getal = float(input(f"Voer getal {i+1} in: "))  # We gebruiken float() om ervoor te zorgen dat de invoer als een getal wordt behandeld
-    getallen_lijst.append(getal)
+    getallen_lijst.append(getal) #hier word append gebruikt om elk ingevoerde nummer in de lege lijst te zetten
 
 # Druk de lijst af
-print("De ingevoerde getallen zijn:")
+print("de ingevoerde getallen zijn ")
 print(getallen_lijst)
+
+
+
+
+
+

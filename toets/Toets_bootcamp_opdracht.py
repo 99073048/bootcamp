@@ -23,8 +23,8 @@ c = "Hallo wereld" # dit is een voorbeeld van het datatype: string
 # Schrijf code die de waarden van a en b omwisselt. Gebruik daarvoor een extra variabele.
 a = 5
 b = 10
-wisselaar_1= a+5  # voeg jouw code toe…
-wisselaar_2= b-5            
+a==b# voeg jouw code toe…
+
 # Controleer met onderstaande code of de waarden correct zijn verwisseld
 print(f"a = {a}, b = {b}") # Moet "a = 10 b = 5" printen
 
