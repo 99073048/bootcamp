@@ -118,6 +118,9 @@ Opdracht 9:
 
  
 
+
+
+
 Opdracht 10:
 # repareer de volgende code:
 MAX= 20
