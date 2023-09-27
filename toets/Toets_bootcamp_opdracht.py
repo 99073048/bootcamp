@@ -4,10 +4,11 @@
 # a: Waarom is Visual Studio Code handiger voor software development dan bijvoorbeeld Notepad Noem de voordelen!
 
 # 1. je kan met visual studio code meerdere codetalen gebruiken en met notepad niet
-# 2. je kan code schrijven die ook met een knop kan worden geëxecuteerd word
+# 2. je kan code schrijven die met een knop kan worden geëxecuteerd word
 
 # b: Waarom is het goed dat je de commits van jouw code pusht naar github.com?
 # # Zodat je kan terugkijken welke veranderingen er zijn gekomen met je bestand
+
 
 
 # Opdracht 2:
@@ -120,13 +121,12 @@ Opdracht 9:
 Opdracht 10:
 # repareer de volgende code:
 MAX= 20
-
-
-MAX == 20
 getal = print("Voer een getal in")
-if getal >> MAX
+
+MAX == 20:
+if getal >= MAX:
    input(f"Het getal is groter dan [MAX]")
-else getal = MAX
+elif getal= MAX:
   input(f"Het getal is kleiner dan [MAX]")
-else
+else:
    input(f"Het getal is gelijk aan (MAX)")
