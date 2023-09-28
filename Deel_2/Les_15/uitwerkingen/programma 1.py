@@ -2,7 +2,7 @@ from user_input import get_integer
 
 def get_integer (vraag)
   
-  while true:
+  while True:
      try:
        
   getal = int(input{vraag})

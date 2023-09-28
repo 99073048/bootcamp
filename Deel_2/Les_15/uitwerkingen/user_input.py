@@ -1,4 +1,4 @@
-import get integer
+import get_integer
 leeftijd= get_integer ("wat is je leeftijd")
   print(f"je bent {leeftijd}")
   print ("voer een getal in")
@@ -21,4 +21,3 @@ return getal
 
 def get_string(vraag)
    antwoord= input(vraag)
-
